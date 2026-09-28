@@ -1,0 +1,5 @@
+[project]
+name='las-classifier'
+version='0.1.0-dev'
+requires-python='>=3.12'
+dependencies=['laspy[lazrs]','numpy','scipy','PySide6']
